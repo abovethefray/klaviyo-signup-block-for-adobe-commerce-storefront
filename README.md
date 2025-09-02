@@ -22,4 +22,4 @@ This repository contains the code for custom block that can be used in Adobe Com
 6. publish the page and test storefront
 
 > [!NOTE]
-> If you localhost is not secured (http://localhost:300/) form submit will not work.
+> If your localhost is not secured (http://localhost:3000/) form submit will not work.
